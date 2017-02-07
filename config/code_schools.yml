@@ -98,7 +98,7 @@
   city: Boulder
   state: CO
   zip: 80302
-  va_accepted: false
+  va_accepted: true
   full_time: true
   hardware_included: false
 
